@@ -30,6 +30,6 @@
 
  ## Image statique
   
-  !Logo de markdown(https://www.google.be/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjTyseL2rHXAhVQzmMKHVXnAh0QjRwIBw&url=https%3A%2F%2Fet.wikipedia.org%2Fwiki%2FMarkdown&psig=AOvVaw3TCn2ADTuNHan0XJZelJgE&ust=1510324156284440)
+  !Logo de markdown(https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
   
     ![Texte alternatif](url_de_l'image "texte pour le titre, facultatif")
