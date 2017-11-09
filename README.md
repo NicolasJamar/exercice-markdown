@@ -28,3 +28,8 @@
   
     [texte du lien](url_du_lien "texte pour le titre, facultatif")
 
+ ## Image statique
+  
+  !Logo de markdown(https://www.google.be/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwjTyseL2rHXAhVQzmMKHVXnAh0QjRwIBw&url=https%3A%2F%2Fet.wikipedia.org%2Fwiki%2FMarkdown&psig=AOvVaw3TCn2ADTuNHan0XJZelJgE&ust=1510324156284440)
+  
+    ![Texte alternatif](url_de_l'image "texte pour le titre, facultatif")
