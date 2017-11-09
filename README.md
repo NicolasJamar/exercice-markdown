@@ -22,5 +22,9 @@
   ### Ici un titre de niveau 3
    #### Ici un titre de niveau 4
   
+  ## Les liens
+   
+   [Lien vers la page Wikipédia de Markdown](url_du_lien "https://fr.wikipedia.org/wiki/Markdown")
   
+    [texte du lien](url_du_lien "texte pour le titre, facultatif")
 
