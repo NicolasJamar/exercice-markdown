@@ -38,3 +38,12 @@
   
   ![Des crayons qui tournent](https://cdn.dribbble.com/users/46315/screenshots/1065283/icons-animation.gif) 
   
+ ## Liste à puces imbriquées
+  *Pour créer des listes à puces imbriquées, procédez comme suit:*
+  
+  * Ecrivez un astérisque 
+  * Ecrivez votre texte
+  * Faites la même chose à la ligne suivante
+     * faire un retrait
+     * Créez une nouvelle liste
+     * Et ainsi de suite...
