@@ -44,6 +44,14 @@
   * Ecrivez un astérisque 
   * Ecrivez votre texte
   * Faites la même chose à la ligne suivante
-     * faire un retrait
+     * Faire un retrait
      * Créez une nouvelle liste
      * Et ainsi de suite...
+  
+  ## Coloration syntaxique 
+  
+  Il faut écrire une balise script
+   <script type="text/javascript">alert("Hello");</script>
+   
+
+
