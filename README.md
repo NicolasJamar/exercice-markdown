@@ -10,10 +10,16 @@
 
 ## La liste numérotée
 
-*Pour créer une liste à puces, procédez de la manière suivante*
+*Pour créer une liste numérotée, procédez de la manière suivante*
 
   1. Mettez un chiffre
   2. Mettez un point
   3. Mettez votre texte
   4. Répétez les 3 points précédents avec la suite logique du chiffre
+  
+  ## Les Titres
+  
+  ### Ici un titre de niveau 3
+    #### Ici un titre de niveau 4
+    
 
