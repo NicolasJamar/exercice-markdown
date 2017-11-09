@@ -50,20 +50,10 @@
   
   ## Coloration syntaxique 
   
-  Il faut écrire une balise script
-   <span style="color:blue">some *This is Blue italic.* text</span>
-   
-javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
-}
-
-```javascript
-var s = "JavaScript syntax highlighting";
-alert(s);
-```
+   ```javascript
+      var s = "JavaScript syntax highlighting";
+      alert(s);
+   ```
 
    
 
