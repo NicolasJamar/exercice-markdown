@@ -51,7 +51,7 @@
   ## Coloration syntaxique 
   
   Il faut écrire une balise script
-   <script type="text/javascript">alert("Hello");</script>
+   alert("HELLO");
    
 
 
