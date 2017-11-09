@@ -60,6 +60,11 @@ function fancyAlert(arg) {
   }
 }
 
+```javascript
+var s = "JavaScript syntax highlighting";
+alert(s);
+```
+
    
 
 
