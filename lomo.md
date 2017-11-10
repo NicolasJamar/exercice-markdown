@@ -1,12 +1,12 @@
 
 
-#Le Lomo Saltado
+# Le Lomo Saltado
 
- ##Recette du Lomo Saltado
+ ## Recette du Lomo Saltado
 
   Le Lomo saltado est un des plats national péruvien.
 
-  ###Ingrédients 
+  ### Ingrédients 
    *300g d'Escalope de boeuf 
    *Sauce soja 
    *3 tomates 
