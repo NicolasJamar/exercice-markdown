@@ -4,6 +4,11 @@
 
 ## Introduction
 
+Bonjour, je suis apprenant chez BeCode et voici mon premier exercice. Nous sommes le 10/11/2017.
+Ce document est susceptible d'être modifié par la suite. 
+
+## Contenu
+
 Ce document est un mémo concernant le markdown et un inventaire de sa syntaxe.
 J'ai également ajouté un lien sur la recette du Lomo Saltado. 
 
