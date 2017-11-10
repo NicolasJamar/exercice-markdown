@@ -24,6 +24,11 @@ source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/201
  * Ecrivez un astérisque 
  * Ecrivez votre texte
  * Faites la même chose à la ligne suivante
+ 
+  
+    * Ecrivez un astérisque 
+    * Ecrivez votre texte
+    * Faites la même chose à la ligne suivante
 
 ## La liste numérotée
 
