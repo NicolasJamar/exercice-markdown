@@ -1,6 +1,13 @@
-[Recette du Lomo Saltado](https://github.com/NicolasJamar/exercice-markdown/blob/master/lomo.md)
 
 # exercice-markdown
+
+#### Menu
+* [Les titres](https://github.com/NicolasJamar/exercice-markdown/blob/master/titre.md)
+* [Les listes](https://github.com/NicolasJamar/exercice-markdown/blob/master/listes.md)
+* [Les liens](https://github.com/NicolasJamar/exercice-markdown/blob/master/liens.md)
+* [Les images](https://github.com/NicolasJamar/exercice-markdown/blob/master/images.md)
+* [Coloration syntaxique](https://github.com/NicolasJamar/exercice-markdown/blob/master/colorsyntax.md)
+* [Recette du Lomo Saltado](https://github.com/NicolasJamar/exercice-markdown/blob/master/lomo.md)
 
 ## Introduction
 
