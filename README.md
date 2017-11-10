@@ -108,10 +108,9 @@ source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/201
       var s = "JavaScript syntax highlighting";
       alert(s);
    ```
-
-`javascript
-      var s = "JavaScript syntax highlighting";
-      alert(s);`
+  Syntaxe : 
+ 
+  Entouré votre code par des accents graves comme ceci > `code javascript `
    
 
 
