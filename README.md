@@ -115,7 +115,7 @@ source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/201
    ```
   Syntaxe : 
  
-  Entourez votre code par 3 accents graves comme ceci : ```  ```
+  Entourez votre code par 3 accents graves comme ceci : ```
    
 
 
