@@ -7,7 +7,7 @@
 Ce document est un mémo concernant le markdown et un inventaire de sa syntaxe.
 J'ai également ajouté un lien sur la recette du Lomo Saltado. 
 
-## Qu'est ce que Markdown
+## Qu'est ce que Markdown ?
 
 Markdown est un système d’édition et de formatage de texte ; c’est à la fois une syntaxe, un script de conversion texte → HTML et un format de fichier. Il est couramment utilisé pour les fichiers de documentation d’un projet ou d’un jeu de données -souvent nommé readme.md. Il est stocké au format texte classique.
 
