@@ -23,7 +23,7 @@ source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/201
    #### Ici un titre de niveau 4
    ##### Ici un titre de niveau 5
    
-   Exemple:
+   Syntaxe:
    
     ### Ici un titre de niveau 3
     #### Ici un titre de niveau 4
@@ -37,7 +37,7 @@ source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/201
  * Ecrivez votre texte
  * Faites la même chose à la ligne suivante
  
- Exemple :
+  Syntaxe :
  
        * Ecrivez un astérisque 
        * Ecrivez votre texte
@@ -52,7 +52,7 @@ source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/201
   3. Mettez votre texte
   4. Répétez les 3 points précédents avec la suite logique du chiffre
   
-  Exemple :
+  Syntaxe :
   
     1. Mettez un chiffre
     2. Mettez un point
@@ -63,17 +63,25 @@ source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/201
    
    [Lien vers la page Wikipédia de Markdown](https://fr.wikipedia.org/wiki/Markdown)
   
+  Syntaxe :
+  
     [texte du lien](url_du_lien "texte pour le titre, facultatif")
 
  ## Image statique
   
   ![Logo de markdown](https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Markdown-mark.svg/1200px-Markdown-mark.svg.png)
   
+   Syntaxe :
+  
     ![Texte alternatif](url_de_l'image "texte pour le titre, facultatif")
     
   ## Image animée
   
   ![Des crayons qui tournent](https://cdn.dribbble.com/users/46315/screenshots/1065283/icons-animation.gif) 
+  
+  Syntaxe (idem que pour image) :
+  
+    ![Texte alternatif](url_de_l'image "texte pour le titre, facultatif")
   
  ## Liste à puces imbriquées
   *Pour créer des listes à puces imbriquées, procédez comme suit:*
@@ -84,6 +92,15 @@ source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/201
      * Faire un retrait
      * Créez une nouvelle liste
      * Et ainsi de suite...
+     
+     Syntaxe :
+     
+        * Ecrivez un astérisque 
+        * Ecrivez votre texte
+        * Faites la même chose à la ligne suivante
+            * Faire un retrait
+            * Créez une nouvelle liste
+            * Et ainsi de suite...
   
   ## Coloration syntaxique 
   
@@ -92,6 +109,9 @@ source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/201
       alert(s);
    ```
 
+`javascript
+      var s = "JavaScript syntax highlighting";
+      alert(s);`
    
 
 
