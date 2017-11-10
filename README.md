@@ -110,7 +110,7 @@ source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/201
    ```
   Syntaxe : 
  
-  Entouré votre code par des accents graves comme ceci > `code javascript `
+  Entouré votre code par des accents graves comme ceci : `
    
 
 
