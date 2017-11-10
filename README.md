@@ -17,6 +17,18 @@ Les fichiers sont généralement enregistrés avec l’extension .md (ou .markdo
 
 source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/2014/04/tutoriel-un-guide-pour-bien-commencer-avec-markdown/)
 
+## Les Titres
+  
+  ### Ici un titre de niveau 3
+   #### Ici un titre de niveau 4
+   ##### Ici un titre de niveau 5
+   
+   Exemple:
+   
+    ### Ici un titre de niveau 3
+    #### Ici un titre de niveau 4
+    ##### Ici un titre de niveau 5
+
 ## La liste à puces
 
 *Pour créer une liste à puces, procédez de la manière suivante*
@@ -25,10 +37,11 @@ source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/201
  * Ecrivez votre texte
  * Faites la même chose à la ligne suivante
  
-  
-    * Ecrivez un astérisque 
-    * Ecrivez votre texte
-    * Faites la même chose à la ligne suivante
+ Exemple :
+ 
+       * Ecrivez un astérisque 
+       * Ecrivez votre texte
+       * Faites la même chose à la ligne suivante
 
 ## La liste numérotée
 
@@ -39,10 +52,12 @@ source : [Un guide pour bien commencer avec Markdown](https://blog.wax-o.com/201
   3. Mettez votre texte
   4. Répétez les 3 points précédents avec la suite logique du chiffre
   
-  ## Les Titres
+  Exemple :
   
-  ### Ici un titre de niveau 3
-   #### Ici un titre de niveau 4
+    1. Mettez un chiffre
+    2. Mettez un point
+    3. Mettez votre texte
+    4. Répétez les 3 points précédents avec la suite logique du chiffre
   
   ## Les liens
    
