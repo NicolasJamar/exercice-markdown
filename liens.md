@@ -16,3 +16,9 @@
   Syntaxe :
   
     [texte du lien](url_du_lien "texte pour le titre, facultatif")
+    
+   Liens vidéo
+   
+   [UFOMammut - Ecate](https://www.youtube.com/watch?v=NN-jSV-dhJU)
+   
+   idem
